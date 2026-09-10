@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+# Generated browser/Streamlit files
+images/127.0.0.*.html
+images/127.0.0.*_files/
